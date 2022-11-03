@@ -16,7 +16,7 @@ public class Main {
         } else
             System.out.println("Вы сохранили ноль");
 
-        // ДЗ на сообразительность
+        // ДЗ на сообразительность!!!!
         Scanner in = new Scanner(System.in);
         System.out.println("Введите ваше имя: ");
         String name = in.next();
